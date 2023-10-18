@@ -1,0 +1,11 @@
+.copy_right_footer {
+    background-color: #f9f9f9;
+    width: 100%;
+    position: fixed;
+    bottom: 8;
+}
+
+body {
+    background-color: beige;
+    font-style: oblique;
+}
